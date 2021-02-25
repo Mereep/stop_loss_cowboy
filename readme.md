@@ -1,5 +1,5 @@
 # Stop Loss Cowboy
-Calculates a stop loss proposal based on a simple heuristic
+Calculates a stop loss proposal for shares based on a simple heuristic
 
 ## Get started
 Prerequisites:
